@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ALPSY on ALPSY 2025</title>
+    <link>https://alpsy-informatik.uibk.ac.at/</link>
+    <description>Recent content in ALPSY on ALPSY 2025</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://alpsy-informatik.uibk.ac.at/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accommodation</title>
+      <link>https://alpsy-informatik.uibk.ac.at/accomodation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alpsy-informatik.uibk.ac.at/accomodation/</guid>
+      <description>IMPORTANT: Thanks to the generous support of our sponsors, we are able to reduce the accommodation cost for PhD students to 90 euros per night.&#xA;The accommodation is arranged at the Obergurgl center of the University of Innsbruck from 25/01/2025 to 29/01/2025 (4 nights). You can pay for this accommodation upon arrival.&#xA;If you plan to arrive earlier (e.g. on 24/01 or 23/01) then you can stay at the Hotel Innsbruck in the Innsburck city.</description>
+    </item>
+    <item>
+      <title>ALPSY24</title>
+      <link>https://alpsy-informatik.uibk.ac.at/alpsy24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alpsy-informatik.uibk.ac.at/alpsy24/</guid>
+      <description>The research workshop ALPSY 2024 was held in January 2024. The workshop was organized by:&#xA;Arnab Roy (University of Innsbruck, AT) Christian Rechberger (TU Graz, AT) Lorenzo Grassi (Ruhr-Universität Bochum, DE) Reinhard Lueftenegger (TU Graz, AT) ALPSY 2024 was supported by&#xA;University of Innsbruck, Vice rector&amp;rsquo;s funding for workshop/conference Department of Computer Science, University of Innsbruck Security and Privacy Lab, University of Innsbruck Program WED, 03.01. 12:30 Lunch 13:30 - 18:30 Talks and discussions THU, 04.</description>
+    </item>
+    <item>
+      <title>Location &amp; Travel</title>
+      <link>https://alpsy-informatik.uibk.ac.at/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alpsy-informatik.uibk.ac.at/location/</guid>
+      <description>IMPORTANT: On the 25th January there will be shuttle taxi(s) from Innsbruck Hbf leaving at 3pm. The taxi can pick up someone from the airport also. Please contact us (Arnab Roy or Christian Rechberger) if you wish to avail the taxi.&#xA;The workshop will be held at Obergurgl in the Obergurgl center of the University of Innsbruck. The exact address is: Universitätszentrum Obergurgl, Gaisbergweg 5, 6456 Obergurgl.&#xA;It is possible to reach the location by public transport.</description>
+    </item>
+    <item>
+      <title>Program</title>
+      <link>https://alpsy-informatik.uibk.ac.at/program/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alpsy-informatik.uibk.ac.at/program/</guid>
+      <description>This is a tentative outline of the program. The format of ALPSY is flexible and can be adjusted to provide time for discussion and group work as much as possible.&#xA;SPEAKERS Håvard Raddum: Alternating moduli PRFs and their polynomial representations Clémence Bouvier: Algebraic Geometry to Linear Cryptanalysis: Application to Anemoi Morten Øygarden Thomas De Cnudde Stefano Trevisani Dmitry Khovratovich: Poseidon Initiative: Ethereum Foundation boosts third-party cryptanalysis of arithmetic hashes Amit Singh Bhati: Generalized Indifferentiable Sponge and its Application to Polygon Miden VM Matthias Steiner: Gröbner Bases For Feistel Designs With Application To GMiMC PROGRAM Saturday, 25.</description>
+    </item>
+  </channel>
+</rss>
