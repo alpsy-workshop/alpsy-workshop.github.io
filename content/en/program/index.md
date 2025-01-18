@@ -17,7 +17,8 @@ work as much as possible.
 - <span style="color:blue">Morten Øygarden</span>
 - <span style="color:blue">Thomas De Cnudde</span>:
 *How Hardware-Friendly are Arithmetization-Oriented Hash Functions?*
-- <span style="color:blue">Stefano Trevisani</span>
+- <span style="color:blue">Stefano Trevisani</span>:
+*Flexible Modes for Arithmetization-Oriented Compression Functions*
 - <span style="color:blue">Dmitry Khovratovich</span>:
 *Poseidon Initiative: Ethereum Foundation boosts third-party cryptanalysis of arithmetic hashes*
 - <span style="color:blue">Amit Singh Bhati</span>: 
