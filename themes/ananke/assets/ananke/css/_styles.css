@@ -27,3 +27,11 @@
   width: 50%;
 
 }
+
+details > summary {
+  list-style-type: '+';
+}
+
+details[open] > summary {
+  list-style-type: '-';
+}
