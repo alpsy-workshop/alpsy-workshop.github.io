@@ -25,6 +25,8 @@ work as much as possible.
 *Generalized Indifferentiable Sponge and its Application to Polygon Miden VM*
 - <span style="color:blue">Matthias Steiner</span>: 
 *Gröbner Bases For Feistel Designs With Application To GMiMC*
+- <span style="color:blue">Fabian Schmid, Katharina Koschatko.</span>: 
+*The Skyscraper hash, and open cryptanalysis problems around lookup-based designs*
 
 ### PROGRAM
 
