@@ -25,8 +25,31 @@ ALPSY is organized by:
 
 
 ### OUR SPONSORS
-- **3MI Labs**
-- **Polygon Technology**
-- **Fabric Cryptography**
-- **TU Graz**
-- **Ethereum**
+
+<table>
+<tr>
+<td class='sponsor-cell'><img alt="3MI Labs" src="/images/sponsor_logos/logo_milabs.png" title="3MI Labs"></td>
+<td class='sponsor-cell'><img alt="Polygon " src="/images/sponsor_logos/Polygon_blockchain_logo.png" title="Polygon"></td>
+</tr>
+<tr>
+<td class='sponsor-cell'><img alt="Fabric Cryptography" src="/images/sponsor_logos/logo_fabric.svg" title="Fabric Cryptography"></td>
+<td class='sponsor-cell'><img alt="TU Graz" src="/images/sponsor_logos/logo_tug.svg" title="TU Graz"></td>
+</tr>
+<tr>
+<td class='sponsor-cell'><img alt="Ethereum" src="/images/sponsor_logos/logo_ethereum.svg" title="Ethereum"></td>
+</tr>
+</table>
+
+
+
+<!-- | ------------ | ------------- | 
+| ![3MI Labs](/images/sponsor_logos/logo_milabs.png "3MI Labs") | ![Polygon ](/images/sponsor_logos/Polygon_blockchain_logo.png "Polygon")  |
+
+ -->
+<!-- |          |         |                       
+| ------------ | ------------- | 
+| ![Ethereum](/images/sponsor_logos/logo_ethereum.svg "Ethereum") | ![TU Graz](/images/sponsor_logos/logo_tug.svg "TU Graz") | -->
+
+
+<!-- 
+![Fabric Cryptography](/images/sponsor_logos/logo_fabric.svg "Fabric Cryptography") -->
