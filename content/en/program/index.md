@@ -14,7 +14,8 @@ work as much as possible.
 *Alternating moduli PRFs and their polynomial representations*
 - <span style="color:blue">Clémence Bouvier</span>: 
 *Algebraic Geometry to Linear Cryptanalysis: Application to Anemoi*
-- <span style="color:blue">Morten Øygarden</span>
+- <span style="color:blue">Morten Øygarden</span>:
+*On FreeLunches and Resultants: The Current Status of Algebraic Attacks Against AO-Hash Functions*
 - <span style="color:blue">Thomas De Cnudde</span>:
 *How Hardware-Friendly are Arithmetization-Oriented Hash Functions?*
 - <span style="color:blue">Stefano Trevisani</span>:
