@@ -28,6 +28,8 @@ work as much as possible.
 *Gröbner Bases For Feistel Designs With Application To GMiMC*
 - <span style="color:blue">Fabian Schmid, Katharina Koschatko</span>: 
 *The Skyscraper hash, and open cryptanalysis problems around lookup-based designs*
+- <span style="color:blue">Marek Sefranek</span>: 
+*Hash functions in the context of PIOP-based SNARKs*
 
 ### PROGRAM
 

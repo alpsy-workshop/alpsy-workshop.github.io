@@ -41,3 +41,11 @@ ALPSY is organized by:
 </tr>
 </table>
 
+
+### SUPPORTED BY
+
+<table>
+<tr>
+<td class='sponsor-cell'><a href='https://www.uibk.ac.at'><img alt="UIBK" src="/images/sponsor_logos/logo_uibk.svg" title="UIBK"></a></td>
+</tr>
+</table>
