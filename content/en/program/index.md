@@ -50,7 +50,7 @@ work as much as possible.
 ##### 11:45 - 12:15 Amit Singh Bhati
 ##### 12:15 - 14:00 Lunch
 ##### 14:00 - 14:30 Stefano Trevisani
-##### 14:30 - 15:00 Matthias Steiner
+##### 14:30 - 15:00 Fabian Schmid, Katharina Koschatko
 ##### 15:00 - 15:30 Coffee break
 ##### 15:30 - 17:00 Group work
 ##### 19:00 Dinner
@@ -62,7 +62,7 @@ work as much as possible.
 <details><summary><b>Monday, 27.01</b></summary>
 
 ##### 9:00 - 9:30 Thomas De Cnudde
-##### 9:30 - 10:00 Fabian Schmid, Katharina Koschatko
+##### 9:30 - 10:00 Matthias Steiner
 ##### 10:00 - 10:30 Arnab Roy
 ##### 10:30 - 11:00 Coffee break
 ##### 11:00 - 11:30 Marek Sefranek
