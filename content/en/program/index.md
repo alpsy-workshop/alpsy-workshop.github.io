@@ -61,9 +61,9 @@ work as much as possible.
 
 <details><summary><b>Monday, 27.01</b></summary>
 
-##### 9:00 - 9:30 Arnab Roy
-##### 9:30 - 10:00 Matthias Steiner
-##### 10:00 - 10:30 Thomas De Cnudde
+##### 9:00 - 9:30 Thomas De Cnudde
+##### 9:30 - 10:00 Arnab Roy
+##### 10:00 - 10:30 Matthias Steiner
 ##### 10:30 - 11:00 Coffee break
 ##### 11:00 - 11:30 Marek Sefranek
 ##### 12:00 - 14:00 Lunch
