@@ -93,10 +93,10 @@ work as much as possible.
 <details><summary><b>Wednesday, 29.01</b></summary>
 
 
-##### 9:00 - 10:30 Presentation of results
+##### 9:00 - 10:30 Group work
 ##### 10:30 - 11:00 Coffee break
-##### 11:00 - 12:30 Presentation of results 
-##### 12:30 - 14:00 Lunch and adjourn
+##### 11:30 - 13:00 Presentation of results 
+##### 13:00 - 14:00 Lunch and adjourn
 
 
 </details>
