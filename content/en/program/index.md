@@ -95,6 +95,7 @@ work as much as possible.
 
 ##### 9:00 - 10:30 Group work
 ##### 10:30 - 11:00 Coffee break
+##### 11:00 - 11:30 Kai Hu (*Geometry approach with different bases*)
 ##### 11:30 - 13:00 Presentation of results 
 ##### 13:00 - 14:00 Lunch and adjourn
 
