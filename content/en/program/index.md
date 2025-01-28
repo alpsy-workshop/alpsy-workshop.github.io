@@ -11,15 +11,15 @@ work as much as possible.
 
 ### SPEAKERS
 - <span style="color:blue">Håvard Raddum</span>: 
-*Alternating moduli PRFs and their polynomial representations*
+*Alternating moduli PRFs and their polynomial representations* <a href="/alpsy25-pdf/polyMix.pdf"><i class="fa fa-file-pdf-o"></i></a>
 - <span style="color:blue">Clémence Bouvier</span>: 
-*Algebraic Geometry to Linear Cryptanalysis: Application to Anemoi*
+*Algebraic Geometry to Linear Cryptanalysis: Application to Anemoi* <a href="/alpsy25-pdf/Presentation_Clémence.pdf"><i class="fa fa-file-pdf-o"></i></a>
 - <span style="color:blue">Morten Øygarden</span>:
 *On FreeLunches and Resultants: The Current Status of Algebraic Attacks Against AO-Hash Functions*
 - <span style="color:blue">Thomas De Cnudde</span>:
 *How Hardware-Friendly are Arithmetization-Oriented Hash Functions?*
 - <span style="color:blue">Stefano Trevisani</span>:
-*Flexible Modes for Arithmetization-Oriented Compression Functions*
+*Flexible Modes for Arithmetization-Oriented Compression Functions* <a href="/alpsy25-pdf/stefano-trevisani.pdf"><i class="fa fa-file-pdf-o"></i></a>
 - <span style="color:blue">Dmitry Khovratovich</span>:
 *Poseidon Initiative: Ethereum Foundation boosts third-party cryptanalysis of arithmetic hashes*
 - <span style="color:blue">Amit Singh Bhati</span>: 
@@ -27,9 +27,12 @@ work as much as possible.
 - <span style="color:blue">Matthias Steiner</span>: 
 *Gröbner Bases For Feistel Designs With Application To GMiMC*
 - <span style="color:blue">Fabian Schmid, Katharina Koschatko</span>: 
-*The Skyscraper hash, and open cryptanalysis problems around lookup-based designs*
+*The Skyscraper hash, and open cryptanalysis problems around lookup-based designs* <a href="/alpsy25-pdf/presentation.pdf"><i class="fa fa-file-pdf-o"></i></a>
+- <span style="color:blue">Arnab Roy</span>: 
+*A New Design Approach in Symmetric Cryptography* <a href="/alpsy25-pdf/alpsy_gtds.pdf"><i class="fa fa-file-pdf-o"></i></a>
 - <span style="color:blue">Marek Sefranek</span>: 
-*Hash functions in the context of PIOP-based SNARKs*
+*Hash functions in the context of PIOP-based SNARKs* 
+
 
 ### PROGRAM
 
@@ -81,7 +84,7 @@ work as much as possible.
 ##### 11:00 - 12:30 Group work 
 ##### 12:30 - 14:00 Lunch
 ##### 14:00 - 15:30 Group work
-##### Social event
+##### 15:50 Social event 
 ##### 19:00 Dinner
 
 </details>
