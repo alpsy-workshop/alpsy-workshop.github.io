@@ -47,15 +47,15 @@ work as much as possible.
 ##### 9:00 - 9:15 Opening remarks
 ##### 9:15 - 9:45 Morten Øygarden
 ##### 9:45 - 10:15 Dmitry Khovratovich
-##### 10:15 - 10:45 Coffee break
-##### 10:45 - 11:15 Håvard Raddum
-##### 11:15 - 11:45 Clémence Bouvier
-##### 11:45 - 12:15 Amit Singh Bhati
-##### 12:15 - 14:00 Lunch
+##### 10:30 - 11:00 Coffee break
+##### 11:00 - 11:30 Håvard Raddum
+##### 11:30 - 12:00 Clémence Bouvier
+##### 12:00 - 12:30 Amit Singh Bhati
+##### 12:30 - 14:00 Lunch
 ##### 14:00 - 14:30 Stefano Trevisani
 ##### 14:30 - 15:00 Fabian Schmid, Katharina Koschatko
-##### 15:00 - 15:30 Coffee break
-##### 15:30 - 17:00 Group work
+##### 15:30 - 16:00 Coffee break
+##### 16:00 - 17:00 Group work
 ##### 19:00 Dinner
 
 </details>
@@ -65,8 +65,8 @@ work as much as possible.
 <details><summary><b>Monday, 27.01</b></summary>
 
 ##### 9:00 - 9:30 Thomas De Cnudde
-##### 9:30 - 10:00 Matthias Steiner
-##### 10:00 - 10:30 Arnab Roy
+##### 9:30 - 10:00 Arnab Roy
+##### 10:00 - 10:30 Matthias Steiner
 ##### 10:30 - 11:00 Coffee break
 ##### 11:00 - 11:30 Marek Sefranek
 ##### 12:00 - 14:00 Lunch
