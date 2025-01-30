@@ -15,7 +15,7 @@ work as much as possible.
 - <span style="color:blue">Clémence Bouvier</span>: 
 *Algebraic Geometry to Linear Cryptanalysis: Application to Anemoi* <a href="/alpsy25-pdf/Presentation_Clémence.pdf"><i class="fa fa-file-pdf-o"></i></a>
 - <span style="color:blue">Morten Øygarden</span>:
-*On FreeLunches and Resultants: The Current Status of Algebraic Attacks Against AO-Hash Functions*
+*On FreeLunches and Resultants: The Current Status of Algebraic Attacks Against AO-Hash Functions* <a href="/alpsy25-pdf/talk-Morten.pdf"><i class="fa fa-file-pdf-o"></i></a>
 - <span style="color:blue">Thomas De Cnudde</span>:
 *How Hardware-Friendly are Arithmetization-Oriented Hash Functions?*
 - <span style="color:blue">Stefano Trevisani</span>:
@@ -31,7 +31,7 @@ work as much as possible.
 - <span style="color:blue">Arnab Roy</span>: 
 *A New Design Approach in Symmetric Cryptography* <a href="/alpsy25-pdf/alpsy_gtds.pdf"><i class="fa fa-file-pdf-o"></i></a>
 - <span style="color:blue">Marek Sefranek</span>: 
-*Hash functions in the context of PIOP-based SNARKs* 
+*Hash functions in the context of PIOP-based SNARKs* <a href="/alpsy25-pdf/talk-Marek.pdf"><i class="fa fa-file-pdf-o"></i></a>
 
 
 ### PROGRAM
