@@ -23,7 +23,7 @@ work as much as possible.
 - <span style="color:blue">Dmitry Khovratovich</span>:
 *Poseidon Initiative: Ethereum Foundation boosts third-party cryptanalysis of arithmetic hashes*
 - <span style="color:blue">Amit Singh Bhati</span>: 
-*Generalized Indifferentiable Sponge and its Application to Polygon Miden VM*
+*Generalized Indifferentiable Sponge and its Application to Polygon Miden VM* <a href="/alpsy25-pdf/talk-Amit.pdf"><i class="fa fa-file-pdf-o"></i></a>
 - <span style="color:blue">Matthias Steiner</span>: 
 *Gröbner Bases For Feistel Designs With Application To GMiMC* <a href="/alpsy25-pdf/presentation_Matthias.pdf"><i class="fa fa-file-pdf-o"></i></a>
 - <span style="color:blue">Fabian Schmid, Katharina Koschatko</span>: 
