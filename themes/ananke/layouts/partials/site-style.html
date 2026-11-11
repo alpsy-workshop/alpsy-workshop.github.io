@@ -1,4 +1,7 @@
-{{ with partialCached "func/style/GetMainCSS" "style/GetMainCSS" }}
+{{/* Assigned to a variable first: newer Hugo treats `with partial ...` blocks as partial
+     decorators and fails with "partial decorator ID mismatch" on this nested call. */}}
+{{ $main_css := partialCached "func/style/GetMainCSS" "style/GetMainCSS" }}
+{{ with $main_css }}
 <link rel="stylesheet" href="{{ .RelPermalink }}" >
 {{ end }}
 

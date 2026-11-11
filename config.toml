@@ -4,14 +4,13 @@ title = 'My New Hugo Site'
 theme = ["ananke"]
 
 DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
 googleAnalytics = ""
 enableRobotsTXT = false
 
 
 [languages]
   [languages.en]
-    title = "ALPSY 2025"
+    title = "ALPSY 2027"
     weight = 1
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
@@ -22,12 +21,23 @@ enableRobotsTXT = false
       unsafe = true
 
 
+# Top menu. Program, Location & Travel and Accommodation come from the pages' front matter (menu.main).
+# "Editions" is a dropdown: a past edition joins it with `parent: "editions"` in its front matter,
+# and `weight: -<year>` lists the most recent edition first.
+[[menus.main]]
+  identifier = "editions"
+  name = "Editions"
+  weight = 4
+
+
 [params]
   text_color = ""
   author = ""
   favicon = ""
-  site_logo = "/images/alpsy-logo-2025.png"
+  site_logo = "/images/alpsy-logo-2027.png"
   description = "ALPSY: Algebraic Aspects in the Design and Cryptanalysis of Modern Symmetric Cryptography"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   # background_color_class = "bg-black"
   recent_posts_number = 0
+  # extra stylesheets from assets/ananke/css/, bundled into the main CSS
+  custom_css = ["nav.css"]

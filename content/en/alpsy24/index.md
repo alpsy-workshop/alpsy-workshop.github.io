@@ -1,10 +1,13 @@
 ---
 title: "ALPSY24"
 featured_image: "/images/uni-center-2.jpg"
+type: page   # use the theme's page layout (needed since Hugo 0.146)
 position_vertical: 60%
 menu:
   main:
-    weight: 4
+    name: "ALPSY 2024"
+    parent: "editions"   # shown in the "Editions" dropdown
+    weight: -2024        # minus the year: most recent edition first
 ---
 
 The research workshop ALPSY 2024 was held in January 2024. The workshop was organized by:

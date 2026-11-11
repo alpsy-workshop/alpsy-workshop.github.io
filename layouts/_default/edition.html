@@ -1,0 +1,17 @@
+{{/*
+  Landing page of an archived ALPSY edition (e.g. content/en/alpsy25/_index.md, selected with `layout: edition`).
+  Shows a card for each sub-page (Program, Location & Travel, Accommodation, ...) followed by the page text,
+  styled like the home page.
+*/}}
+{{ define "main" }}
+  <section class="flex-ns flex-wrap justify-around mw8 center ph3 pt4">
+    {{ range .Pages }}
+      <div class="relative w-100 w-30-l mb2 bg-white">
+        {{ .Render "summary" }}
+      </div>
+    {{ end }}
+  </section>
+  <article class="cf ph3 ph5-l pv3 pv4-l f4 tj-l center mw8 lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
+    {{ .Content }}
+  </article>
+{{ end }}

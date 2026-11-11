@@ -1,0 +1,180 @@
+/*
+  Top navigation (themes/ananke/layouts/partials/site-navigation.html):
+  dropdown menus (e.g. "Editions") and a hamburger menu on small screens.
+  Breakpoint: 60em, the same as Tachyons' "-l" classes used by the theme.
+*/
+
+.site-nav-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-menu {
+  display: flex;
+  align-items: center;
+}
+
+.nav-list {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-item {
+  position: relative;
+}
+
+/* Links and the dropdown button look the same */
+.nav-link {
+  display: flex;
+  align-items: center;
+  gap: 0.35em;
+  padding: 0.25rem 0.5rem;
+  font: inherit;
+  color: rgba(255, 255, 255, 0.9);
+  text-decoration: none;
+  background: none;
+  border: 0;
+  cursor: pointer;
+}
+.nav-link:hover,
+.nav-link:focus-visible {
+  color: #fff;
+}
+.nav-item:last-child .nav-link {
+  padding-right: 0;
+}
+
+.nav-caret {
+  flex: none;
+  transition: transform 0.15s ease;
+}
+.nav-dropdown.is-open .nav-caret {
+  transform: rotate(180deg);
+}
+
+/* Dropdown panel */
+.nav-submenu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  right: 0;
+  z-index: 1000;
+  min-width: 10rem;
+  margin: 0;
+  padding: 0.4rem 0;
+  list-style: none;
+  background: rgba(17, 17, 17, 0.95);
+  border-radius: 4px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+}
+.nav-dropdown.is-open > .nav-submenu {
+  display: block;
+}
+
+.nav-sublink {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: rgba(255, 255, 255, 0.9);
+  text-decoration: none;
+  white-space: nowrap;
+}
+.nav-sublink:hover,
+.nav-sublink:focus-visible {
+  color: #fff;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+/* Hamburger button (small screens only) */
+.nav-toggle {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+  width: 2.5rem;
+  height: 2.5rem;
+  padding: 0.5rem;
+  margin-right: -0.5rem;
+  background: none;
+  border: 0;
+  cursor: pointer;
+}
+.nav-toggle-bar {
+  display: block;
+  width: 24px;
+  height: 2px;
+  border-radius: 1px;
+  background: rgba(255, 255, 255, 0.9);
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+.site-nav.is-open .nav-toggle-bar:nth-child(1) {
+  transform: translateY(7px) rotate(45deg);
+}
+.site-nav.is-open .nav-toggle-bar:nth-child(2) {
+  opacity: 0;
+}
+.site-nav.is-open .nav-toggle-bar:nth-child(3) {
+  transform: translateY(-7px) rotate(-45deg);
+}
+
+/* Wide screens with a mouse: open dropdowns on hover */
+@media (hover: hover) and (min-width: 60em) {
+  .nav-dropdown:hover > .nav-submenu {
+    display: block;
+  }
+  .nav-dropdown:hover .nav-caret {
+    transform: rotate(180deg);
+  }
+}
+
+/* Small screens: hamburger menu, entries stacked, dropdowns expand in place */
+@media (max-width: 59.99em) {
+  .site-nav.js-nav .nav-toggle {
+    display: flex;
+  }
+  .nav-menu {
+    display: block;
+    width: 100%;
+  }
+  .site-nav.js-nav .nav-menu {
+    display: none;
+  }
+  .site-nav.js-nav.is-open .nav-menu {
+    display: block;
+  }
+  .nav-list {
+    flex-direction: column;
+    align-items: stretch;
+    margin-top: 0.75rem;
+  }
+  .nav-link,
+  .nav-item:last-child .nav-link {
+    width: 100%;
+    padding: 0.75rem 0;
+    text-align: left;
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+  }
+  .nav-submenu {
+    position: static;
+    min-width: 0;
+    padding: 0 0 0.5rem 1rem;
+    background: none;
+    border-radius: 0;
+    box-shadow: none;
+  }
+  /* without JavaScript, show the sub-entries */
+  .site-nav:not(.js-nav) .nav-submenu {
+    display: block;
+  }
+  .nav-sublink {
+    padding: 0.5rem 0;
+  }
+  .nav-sublink:hover,
+  .nav-sublink:focus-visible {
+    background: none;
+  }
+}

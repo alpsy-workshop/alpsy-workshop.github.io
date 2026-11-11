@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ALPSY 2025 on ALPSY 2027</title>
+    <link>http://localhost:1313/alpsy25/</link>
+    <description>Recent content in ALPSY 2025 on ALPSY 2027</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/alpsy25/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Program</title>
+      <link>http://localhost:1313/alpsy25/program/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alpsy25/program/</guid>
+      <description>Speakers, talks (with slides) and the day-by-day schedule of ALPSY 2025.</description>
+    </item>
+    <item>
+      <title>Location &amp; Travel</title>
+      <link>http://localhost:1313/alpsy25/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alpsy25/location/</guid>
+      <description>How to reach the University Center Obergurgl, venue of ALPSY 2025.</description>
+    </item>
+    <item>
+      <title>Accommodation</title>
+      <link>http://localhost:1313/alpsy25/accomodation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alpsy25/accomodation/</guid>
+      <description>Accommodation at the Obergurgl center and nearby options for ALPSY 2025.</description>
+    </item>
+  </channel>
+</rss>

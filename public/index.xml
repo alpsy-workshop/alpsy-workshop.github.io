@@ -1,39 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ALPSY on ALPSY 2025</title>
+    <title>ALPSY on ALPSY 2027</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in ALPSY on ALPSY 2025</description>
+    <description>Recent content in ALPSY on ALPSY 2027</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Program</title>
+      <link>http://localhost:1313/alpsy25/program/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alpsy25/program/</guid>
+      <description>Speakers, talks (with slides) and the day-by-day schedule of ALPSY 2025.</description>
+    </item>
+    <item>
+      <title>Location &amp; Travel</title>
+      <link>http://localhost:1313/alpsy25/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alpsy25/location/</guid>
+      <description>How to reach the University Center Obergurgl, venue of ALPSY 2025.</description>
+    </item>
+    <item>
+      <title>Accommodation</title>
+      <link>http://localhost:1313/alpsy25/accomodation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alpsy25/accomodation/</guid>
+      <description>Accommodation at the Obergurgl center and nearby options for ALPSY 2025.</description>
+    </item>
     <item>
       <title>Accommodation</title>
       <link>http://localhost:1313/accomodation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/accomodation/</guid>
-      <description>IMPORTANT: Thanks to the generous support of our sponsors, we are able to reduce the accommodation cost for PhD students to 90 euros per night.&#xA;The accommodation is arranged at the Obergurgl center of the University of Innsbruck from 25/01/2025 to 29/01/2025 (4 nights). You can pay for this accommodation upon arrival.&#xA;If you plan to arrive earlier (e.g. on 24/01 or 23/01) then you can stay at the Hotel Innsbruck in the Innsburck city.</description>
+      <description>&lt;!-- TODO (ALPSY 2027): set the dates and prices (e.g. reduced rate for PhD students) and any hotel arrangements in Innsbruck. --&gt;&#xA;&lt;p&gt;The accommodation is arranged at the Obergurgl center of the University of Innsbruck. More details will be announced soon.&lt;/p&gt;&#xA;&lt;p&gt;Here is a list of other accommodation options (other than workshop venue)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.edelweiss-gurgl.com/en&#34;&gt;Hotel Edelweiss&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.apartments-obergurgl.at/&#34;&gt;Holiday apartments Gurglhof&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.wendlhof.at/en/willkommen.html&#34;&gt;Bed &amp;amp; Breakfast Wendlhof&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.alpenblick-obergurgl.com/en/&#34;&gt;Holiday apartments and rooms Haus Alpenblick&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.mennecke-obergurgl.com/&#34;&gt;Holiday apartments Mennecke&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.mathiesn.at/en/hotel-mathiesn/&#34;&gt;Hotel Mathiesen&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.haus-aktiv.com/en/&#34;&gt;Holiday apartments and rooms Haus Aktiv&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>ALPSY24</title>
       <link>http://localhost:1313/alpsy24/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/alpsy24/</guid>
-      <description>The research workshop ALPSY 2024 was held in January 2024. The workshop was organized by:&#xA;Arnab Roy (University of Innsbruck, AT) Christian Rechberger (TU Graz, AT) Lorenzo Grassi (Ruhr-Universität Bochum, DE) Reinhard Lueftenegger (TU Graz, AT) ALPSY 2024 was supported by&#xA;University of Innsbruck, Vice rector&amp;rsquo;s funding for workshop/conference Department of Computer Science, University of Innsbruck Security and Privacy Lab, University of Innsbruck Program WED, 03.01. 12:30 Lunch 13:30 - 18:30 Talks and discussions THU, 04.</description>
+      <description>&lt;p&gt;The research workshop ALPSY 2024 was held in January 2024. The workshop was organized by:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Arnab Roy (University of Innsbruck, AT)&lt;/li&gt;&#xA;&lt;li&gt;Christian Rechberger (TU Graz, AT)&lt;/li&gt;&#xA;&lt;li&gt;Lorenzo Grassi (Ruhr-Universität Bochum, DE)&lt;/li&gt;&#xA;&lt;li&gt;Reinhard Lueftenegger (TU Graz, AT)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;ALPSY 2024 was supported by&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;University of Innsbruck, Vice rector&amp;rsquo;s funding for workshop/conference&lt;/li&gt;&#xA;&lt;li&gt;Department of Computer Science, University of Innsbruck&lt;/li&gt;&#xA;&lt;li&gt;Security and Privacy Lab, University of Innsbruck&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;program&#34;&gt;Program&lt;/h2&gt;&#xA;&lt;h3 id=&#34;wed-0301&#34;&gt;WED, 03.01.&lt;/h3&gt;&#xA;&lt;h4 id=&#34;1230-lunch&#34;&gt;12:30 Lunch&lt;/h4&gt;&#xA;&lt;h4 id=&#34;1330---1830-talks-and-discussions&#34;&gt;13:30 - 18:30 Talks and discussions&lt;/h4&gt;&#xA;&lt;h3 id=&#34;thu-0401&#34;&gt;THU, 04.01.&lt;/h3&gt;&#xA;&lt;h4 id=&#34;730---900-breakfast&#34;&gt;7:30 - 9:00 Breakfast&lt;/h4&gt;&#xA;&lt;h4 id=&#34;930-group-worksnow-activities&#34;&gt;9:30 Group work/Snow activities&lt;/h4&gt;&#xA;&lt;h4 id=&#34;1230-lunch-1&#34;&gt;12:30 Lunch&lt;/h4&gt;&#xA;&lt;h4 id=&#34;1330-discussion-and-group-work&#34;&gt;13:30 Discussion and Group work&lt;/h4&gt;&#xA;&lt;h4 id=&#34;1500-invited-talk-by-prof-rainer-boehme-university-of-innsbruck-central-bank-digital-currency-and-cryptography&#34;&gt;15:00 Invited talk by Prof. Rainer Boehme, &lt;em&gt;University of Innsbruck&lt;/em&gt; (Central Bank Digital Currency and Cryptography)&lt;/h4&gt;&#xA;&lt;h4 id=&#34;1600-coffee-break&#34;&gt;16:00 Coffee break&lt;/h4&gt;&#xA;&lt;h4 id=&#34;1630-invited-talk-by-dmitry-khovratovich-ethereum-foundation-algebraic-hash-initiative&#34;&gt;16:30 Invited talk by Dmitry Khovratovich, &lt;em&gt;Ethereum Foundation&lt;/em&gt; (&lt;a href=&#34;http://localhost:1313/images/Algebraic-Hashes-Initiative.pdf&#34;&gt;Algebraic Hash Initiative&lt;/a&gt;)&lt;/h4&gt;&#xA;&lt;h4 id=&#34;1730-invited-talk-by-luis-brandao-nist-us-symmetric-cryptography-in-the-nist-threshold-call&#34;&gt;17:30 Invited talk by Luis Brandao, &lt;em&gt;NIST US&lt;/em&gt; (&lt;a href=&#34;http://localhost:1313/images/alpsy-nist-call-Luis.pdf&#34;&gt;Symmetric Cryptography in the NIST Threshold Call&lt;/a&gt;)&lt;/h4&gt;&#xA;&lt;h3 id=&#34;fri-0501&#34;&gt;FRI, 05.01.&lt;/h3&gt;&#xA;&lt;h4 id=&#34;730---900-breakfast-1&#34;&gt;7:30 - 9:00 Breakfast&lt;/h4&gt;&#xA;&lt;h4 id=&#34;930-group-work&#34;&gt;9:30 Group work&lt;/h4&gt;&#xA;&lt;h4 id=&#34;1230-lunch-2&#34;&gt;12:30 Lunch&lt;/h4&gt;&#xA;&lt;h4 id=&#34;1330-group-work-and-social-event&#34;&gt;13:30 Group work and Social event&lt;/h4&gt;&#xA;&lt;h4 id=&#34;1830-dinner&#34;&gt;18:30 Dinner&lt;/h4&gt;&#xA;&lt;h3 id=&#34;sat-0601&#34;&gt;SAT, 06.01.&lt;/h3&gt;&#xA;&lt;h4 id=&#34;730---900-breakfast-2&#34;&gt;7:30 - 9:00 Breakfast&lt;/h4&gt;&#xA;&lt;h4 id=&#34;930-group-work-and-presentation-of-results&#34;&gt;9:30 Group work and presentation of results&lt;/h4&gt;&#xA;&lt;h4 id=&#34;1200-closure&#34;&gt;12:00 Closure&lt;/h4&gt;</description>
     </item>
     <item>
       <title>Location &amp; Travel</title>
       <link>http://localhost:1313/location/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/location/</guid>
-      <description>IMPORTANT: On the 25th January there will be shuttle taxi(s) from Innsbruck Hbf leaving at 3pm. The taxi can pick up someone from the airport also. Please contact us (Arnab Roy or Christian Rechberger) if you wish to avail the taxi.&#xA;The workshop will be held at Obergurgl in the Obergurgl center of the University of Innsbruck. The exact address is: Universitätszentrum Obergurgl, Gaisbergweg 5, 6456 Obergurgl.&#xA;It is possible to reach the location by public transport.</description>
+      <description>&lt;!-- TODO (ALPSY 2027): confirm the venue and add shuttle/taxi information, e.g.&#xA;&lt;span style=&#34;color:red&#34;&gt;&lt;b&gt;IMPORTANT&lt;/b&gt;&lt;/span&gt;: &lt;i&gt;On the DD Month there will be shuttle taxi(s) from Innsbruck Hbf leaving at HH:MM. ...&lt;/i&gt;&#xA;--&gt;&#xA;&lt;p&gt;The workshop will be held at Obergurgl in the Obergurgl center of the University of Innsbruck. The exact address is: &lt;em&gt;Universitätszentrum Obergurgl, Gaisbergweg 5, 6456 Obergurgl&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;It is possible to reach the location by public transport. The route is: Innsbruck hbf - Ötztal bahnhof (by train), and Ötztal bahnhof - Obergurgl by bus (320, available every 30 mins) or taxi.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Program</title>
       <link>http://localhost:1313/program/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/program/</guid>
-      <description>This is a tentative outline of the program. The format of ALPSY is flexible and can be adjusted to provide time for discussion and group work as much as possible.&#xA;SPEAKERS Håvard Raddum: Alternating moduli PRFs and their polynomial representations Clémence Bouvier: Algebraic Geometry to Linear Cryptanalysis: Application to Anemoi Morten Øygarden: On FreeLunches and Resultants: The Current Status of Algebraic Attacks Against AO-Hash Functions Thomas De Cnudde: How Hardware-Friendly are Arithmetization-Oriented Hash Functions?</description>
+      <description>&lt;p&gt;The format of ALPSY is flexible and can be adjusted to provide time for discussion and group work as much as possible.&lt;/p&gt;&#xA;&lt;h3 id=&#34;speakers&#34;&gt;SPEAKERS&lt;/h3&gt;&#xA;&lt;p&gt;The list of speakers will be announced soon.&lt;/p&gt;&#xA;&lt;!-- TODO (ALPSY 2027): replace the line above with the speakers. Slides go in static/alpsy27-pdf/.&#xA;- &lt;span style=&#34;color:blue&#34;&gt;Speaker Name&lt;/span&gt;: &#xA;*Talk title* &lt;a href=&#34;http://localhost:1313/alpsy27-pdf/talk-Name.pdf&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA;--&gt;&#xA;&lt;h3 id=&#34;program&#34;&gt;PROGRAM&lt;/h3&gt;&#xA;&lt;p&gt;The detailed program will be announced soon.&lt;/p&gt;&#xA;&lt;!-- TODO (ALPSY 2027): replace the line above with one block per day, e.g.&#xA;&lt;details&gt;&lt;summary&gt;&lt;b&gt;Day, DD.MM&lt;/b&gt;&lt;/summary&gt;&#xA;&#xA;##### 9:00 - 9:15 Opening remarks&#xA;##### 9:15 - 9:45 Speaker Name&#xA;##### 10:30 - 11:00 Coffee break&#xA;##### 12:30 - 14:00 Lunch&#xA;##### 19:00 Dinner&#xA;&#xA;&lt;/details&gt;&#xA;--&gt;</description>
     </item>
   </channel>
 </rss>
