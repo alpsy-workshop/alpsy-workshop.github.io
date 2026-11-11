@@ -30,10 +30,10 @@ ALPSY is organized by:
 * Arnab Roy (University of Innsbruck, Austria)
 * Christian Rechberger (TU Graz, Austria)
 
-
+<!-- 
 ### OUR SPONSORS
 
-Sponsors will be announced soon.
+Sponsors will be announced soon. -->
 
 <!-- TODO (ALPSY 2027): replace the line above with the sponsor table, e.g.
 <table>
@@ -50,6 +50,6 @@ Logos go in static/images/sponsor_logos/.
 
 <table>
 <tr>
-<td class='sponsor-cell'><a href='https://www.uibk.ac.at'><img alt="UIBK" src="/images/sponsor_logos/logo_uibk.svg" title="UIBK"></a></td>
+<td class='sponsor-cell'><a href='https://www.uibk.ac.at'><img alt="UIBK" src="/images/sponsor_logos/logo_uibk.svg" title="UIBK"></a></td><td class='sponsor-cell'><a href='https://www.tugraz.at/'><img alt="TU Graz" src="/images/sponsor_logos/logo_tug.svg" title="TU Graz"></a></td>
 </tr>
 </table>
