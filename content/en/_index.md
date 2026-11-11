@@ -5,7 +5,13 @@ featured_image: "/images/obergurgl-l.jpg"
 ---
 
 
-The research workshop ALPSY 2027 will be held from **January 31st to February 5th, 2027**. The goals of this workshop are:
+The research workshop ALPSY 2027 will be held from **January 31st to February 5th, 2027**.
+
+To mark **the 62nd anniversary of the Groebner Basis algorithm**, we are honored to welcome [Professor Bruno Buchberger](https://www.brunobuchberger.com/), the inventor of the algorithm, who will give a special invited lecture.
+
+<hr>
+
+The goals of this workshop are:
 
 * to provide a venue for joint scientific discussions and work;
 
